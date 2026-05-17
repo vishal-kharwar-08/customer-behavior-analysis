@@ -1,39 +1,83 @@
 # Customer Behavior Analysis
 
-## Project Overview
-This project analyzes customer purchasing behavior using Python, SQL, and Power BI.
+## Overview
+An end-to-end Customer Behavior Analysis project using Python, SQL, and Power BI to analyze customer purchasing trends, sales insights, and customer engagement.
 
-## Technologies Used
+---
+
+# Features
+- Customer Segmentation
+- Revenue Analysis
+- Sales Trend Analysis
+- SQL Business Queries
+- Interactive Dashboard
+- Business Intelligence Reporting
+
+---
+
+# Tech Stack
 - Python
 - Pandas
 - NumPy
-- Matplotlib
-- Seaborn
 - SQL
 - Power BI
+- Matplotlib
+- Seaborn
 
-## Features
-- Customer Segmentation
-- Sales Trend Analysis
-- Revenue Analysis
-- Customer Retention Insights
-- Interactive Dashboards
+---
 
-## Project Structure
+# Project Workflow
+
+Dataset → Python Preprocessing → SQL Analysis → Power BI Dashboard → Business Insights
+
+---
+
+# Dashboard Preview
+
+## Sales Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+## Terminal Output
+![Output](screenshots/output.png)
+
+---
+
+# Dataset
+The project uses customer transaction data containing:
+- CustomerID
+- InvoiceNo
+- Product Details
+- Quantity
+- Invoice Date
+- Country
+- Unit Price
+
+---
+
+# Folder Structure
+
 ```text
 customer-behavior-analysis/
 │
 ├── data/
 ├── src/
 ├── sql/
-├── powerbi/
 ├── outputs/
+├── screenshots/
+├── README.md
 ├── requirements.txt
 └── main.py
 ```
 
-## Run the Project
-```bash
-pip install -r requirements.txt
-python main.py
-```
+---
+
+# Future Improvements
+- Customer Churn Prediction
+- Recommendation System
+- Real-Time Dashboard
+- Cloud Deployment
+
+---
+
+# Author
+Vishal Kharwar
