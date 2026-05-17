@@ -1,0 +1,8 @@
+Power BI Dashboard Suggestions
+
+1. Revenue KPI
+2. Monthly Sales Trend
+3. Customer Segmentation
+4. Country-wise Revenue
+5. Top Products
+6. Customer Retention Analysis
